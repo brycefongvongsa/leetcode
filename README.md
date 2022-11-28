@@ -10,8 +10,8 @@ The main site I go to for coding challenges.
 
 ## Optimizations
 
-I look to refactor and optimize my code, sometimes for efficiency or readability. 
+I look over my previous challenges to refactor and optimize my code after a period of time for efficiency/readability. 
 
 ## Lessons Learned:
 
-My takeaways from this is that there's always other ways to solve these challenges and new knowledge to obtain. It's okay to struggle on these problems, as long as I keep a positive perspective and learn and keep improving.
+My takeaways from this is that there's always other ways to solve these challenges and new knowledge to obtain. It's okay to struggle on these problems, as long as I keep a positive perspective while learning and improving.
