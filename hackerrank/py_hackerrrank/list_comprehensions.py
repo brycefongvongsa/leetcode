@@ -1,4 +1,5 @@
 """
+    link: https://www.hackerrank.com/challenges/list-comprehensions/problem?isFullScreen=true
     sample input:
         1
         1
